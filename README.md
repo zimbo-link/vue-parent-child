@@ -1,4 +1,4 @@
-# vueapp
+# Parent-Child
 
 ## Project setup
 ```
